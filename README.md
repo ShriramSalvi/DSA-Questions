@@ -14,9 +14,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0012-integer-to-roman) |
+| [1408-string-matching-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1408-string-matching-in-an-array) |
 ## Array
 |  |
 | ------- |
+| [1408-string-matching-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1408-string-matching-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3719-longest-balanced-subarray-i) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
