@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1980-find-unique-binary-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1980-find-unique-binary-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3713-longest-balanced-substring-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3713-longest-balanced-substring-i) |
 ## Array
 |  |
