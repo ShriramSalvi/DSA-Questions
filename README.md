@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0012-integer-to-roman) |
+| [1025-divisor-game](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1025-divisor-game) |
 ## String
 |  |
 | ------- |
@@ -62,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1980-find-unique-binary-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
