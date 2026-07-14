@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0012-integer-to-roman) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1980-find-unique-binary-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1980-find-unique-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3719-longest-balanced-subarray-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0014-longest-common-prefix) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1408-string-matching-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1980-find-unique-binary-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1980-find-unique-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3719-longest-balanced-subarray-i) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [3713-longest-balanced-substring-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
