@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1980-find-unique-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3719-longest-balanced-subarray-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1408-string-matching-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1408-string-matching-in-an-array) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1980-find-unique-binary-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1980-find-unique-binary-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0868-binary-gap](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -141,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1260-shift-2d-grid) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
