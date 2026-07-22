@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1980-find-unique-binary-string) |
+| [2733-neither-minimum-nor-maximum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0414-third-maximum-number) |
+| [2733-neither-minimum-nor-maximum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
