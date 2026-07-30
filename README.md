@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
