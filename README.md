@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1980-find-unique-binary-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3719-longest-balanced-subarray-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1980-find-unique-binary-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3713-longest-balanced-substring-i) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2733-neither-minimum-nor-maximum) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
