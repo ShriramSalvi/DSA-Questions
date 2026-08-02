@@ -1,18 +1,55 @@
 class Solution {
 public:
-    int solve(int i, int j, vector<int>& nums) {
 
-        if(i == j)
-            return nums[i];
+    bool helper(int left,
+                int right,
+                int score1,
+                int score2,
+                bool player1Turn,
+                vector<int>& nums)
+    {
+        if(left > right)
+            return score1 >= score2;
 
-        int takeLeft = nums[i] - solve(i + 1, j, nums);
-        int takeRight = nums[j] - solve(i, j - 1, nums);
-
-        return max(takeLeft, takeRight);
+        if(player1Turn)
+        {
+            // Player 1 tries to find at least one winning move.
+            return helper(left + 1, right,
+                          score1 + nums[left],
+                          score2,
+                          false,
+                          nums)
+                ||
+                   helper(left, right - 1,
+                          score1 + nums[right],
+                          score2,
+                          false,
+                          nums);
+        }
+        else
+        {
+            // Player 2 tries to make Player 1 lose.
+            return helper(left + 1, right,
+                          score1,
+                          score2 + nums[left],
+                          true,
+                          nums)
+                &&
+                   helper(left, right - 1,
+                          score1,
+                          score2 + nums[right],
+                          true,
+                          nums);
+        }
     }
 
     bool predictTheWinner(vector<int>& nums) {
 
-        return solve(0, nums.size() - 1, nums) >= 0;
+        return helper(0,
+                      nums.size() - 1,
+                      0,
+                      0,
+                      true,
+                      nums);
     }
 };
