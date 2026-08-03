@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0877-stone-game) |
+| [0986-interval-list-intersections](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1260-shift-2d-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1260-shift-2d-grid) |
 | [1408-string-matching-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1408-string-matching-in-an-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0567-permutation-in-string) |
+| [0986-interval-list-intersections](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0986-interval-list-intersections) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
