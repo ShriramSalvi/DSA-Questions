@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Counting Sort
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1406-stone-game-iii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
