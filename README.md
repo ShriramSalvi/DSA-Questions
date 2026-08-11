@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0567-permutation-in-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
