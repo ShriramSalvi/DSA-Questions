@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3692-majority-frequency-characters](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3692-majority-frequency-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3731-find-missing-elements) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3692-majority-frequency-characters](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3692-majority-frequency-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3713-longest-balanced-substring-i) |
 ## Array
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3692-majority-frequency-characters](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3692-majority-frequency-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
