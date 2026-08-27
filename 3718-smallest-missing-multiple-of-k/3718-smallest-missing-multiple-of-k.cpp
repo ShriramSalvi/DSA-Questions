@@ -9,7 +9,7 @@ public:
         int mul = 1;
 
         for(int i = 0; i < nums.size(); i++){
-            if(mp.find(mul*k) == mp.end())
+            if(mp.find(mul * k) == mp.end())
             return mul * k;
             mul++;
         }
