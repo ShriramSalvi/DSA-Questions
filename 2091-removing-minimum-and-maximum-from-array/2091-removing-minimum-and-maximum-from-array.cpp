@@ -33,7 +33,7 @@ public:
       int Minleft = abs(0-minIdx)+1;
       int MinRight = abs(size-minIdx);
     
-      cout<<Minleft<<" "<<MinRight;
+     
 
       int Maxleft = abs(0-maxIdx)+1;
       int Maxright = abs(size-maxIdx);
