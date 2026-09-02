@@ -23,7 +23,7 @@ public:
             tempNumber += (digit2*10);
             tempNumber += (digit3);
             
-            cout<<tempNumber<<endl;
+            
             if(tempNumber> 99 && tempNumber%2 == 0)mp[tempNumber];
         }
         }
