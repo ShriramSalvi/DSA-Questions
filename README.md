@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0486-predict-the-winner](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1025-divisor-game) |
 | [1175-prime-arrangements](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1175-prime-arrangements) |
@@ -344,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1757-recyclable-and-low-fat-products) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
