@@ -1,33 +1,30 @@
 class Solution {
 public:
-    int helper(int left, int right, string &s,vector<vector<int>>&dp){
-    while(left<=right){
-        if(s[left]!=s[right]){
-            return 0;
-        }
-        left++,right--;
-    }
-    return 1;
-}
     int countSubstrings(string s) {
- 
-        vector<vector<int>>dp(s.length()+1,vector<int>(s.length()+1,-1));
-        int count=0;
-
-        for(int i=0; i<s.length();i++){
-        for(int j=i;j<s.length();j++){
-          if(dp[i][j]!= -1){
-            count+=dp[i][j];
-          }
-          else{
-            dp[i][j]=helper(i,j,s,dp);
-            count+=dp[i][j];
-          }
-        }
-        }
-
         
-        return count;
+        vector<vector<int>>dp(1001,vector<int>(1001,0));
+        
+        int count =0;
 
+       for(int length=1; length<=s.length();length++){
+        for(int i=0; length+i-1<s.length();i++){
+            int j= length+i-1;
+            
+            if(i==j){
+                dp[i][j]=1;
+                
+            }
+            else if(i+1==j && s[i]==s[j]){
+                dp[i][j]=1;
+               
+            }
+            else if(s[i]==s[j] && dp[i+1][j-1]==1){
+                dp[i][j]=1;
+            }
+            if(dp[i][j])count++;
+        }
+       }
+
+        return count;
     }
 };
