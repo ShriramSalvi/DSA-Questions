@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0877-stone-game) |
