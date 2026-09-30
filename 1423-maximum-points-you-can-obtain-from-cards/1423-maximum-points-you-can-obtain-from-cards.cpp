@@ -1,28 +1,30 @@
 class Solution {
 public:
-    int maxScore(vector<int>& nums, int k) {
+    int maxScore(vector<int>& cardPoints, int k) {
+      int ans=0;
 
-       int sum =0;
-       
-       int left=0;
-       while(left<k){
-        sum+=nums[left];
-        left++;
-       }
-       left--;
-       
-
-       int right=nums.size()-1;
-       
-       int currSum = sum;
-      while(left>=0){
-        currSum -= nums[left];
-        currSum += nums[right];
-        sum = max(sum,currSum);
-        left--;
-        right--;
+      for(int i=0; i<k; i++){
+        ans+=cardPoints[i];
       }
 
-       return sum;
+      cout<<ans;
+
+      int rightSum=0;
+      int leftSum=0;
+      int left=k-1;
+      int right=cardPoints.size()-1;
+
+      int finalans=ans;
+
+      while(left>=0){
+        rightSum += cardPoints[right];
+        leftSum+=cardPoints[left];
+        finalans = max((ans-leftSum+rightSum),finalans);
+        left--;
+        right--;
+    
+      }
+
+      return finalans;  
     }
 };
