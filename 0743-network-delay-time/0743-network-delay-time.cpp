@@ -30,7 +30,8 @@ public:
         int u = minheap.top().second;
         
         minheap.pop();
-
+        
+        if(w>visited[u])continue;
         for(auto it:mp[u]){
 
             int v=it[0];
