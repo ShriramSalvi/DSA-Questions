@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -401,11 +402,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
