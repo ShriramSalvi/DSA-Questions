@@ -20,7 +20,9 @@ public:
       while(!dq.empty()){
         int currNode = dq.front();
         dq.pop_front();
+        if(currNode==destination)return true;
         for(int i:mp[currNode]){
+         if(i==destination)return true;
          if(!visited[i]){
             visited[i]=true;
             dq.push_back(i);
