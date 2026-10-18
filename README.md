@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1980-find-unique-binary-string) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1260-shift-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 ## Tree
 |  |
 | ------- |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -405,12 +410,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -446,4 +453,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
