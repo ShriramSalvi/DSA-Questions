@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0486-predict-the-winner) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0877-stone-game) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0567-permutation-in-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0986-interval-list-intersections) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0414-third-maximum-number) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -277,11 +281,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
