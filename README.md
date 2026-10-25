@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0053-maximum-subarray) |
+| [0200-number-of-islands](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0414-third-maximum-number) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0547-number-of-provinces) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0547-number-of-provinces) |
@@ -436,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1584-min-cost-to-connect-all-points) |
