@@ -9,7 +9,7 @@ public:
         
         for(int j=0; j<n; j++){
             if(i==0 || j==n-1)ans[i][j]='.';
-            else ans[i][j]='#';
+            
         }
     
      }
