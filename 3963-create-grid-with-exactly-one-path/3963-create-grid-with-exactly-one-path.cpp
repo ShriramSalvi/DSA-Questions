@@ -3,15 +3,15 @@ public:
 
     vector<string> createGrid(int m, int n) {
      
-     vector<string>ans;
-
+     vector<string>ans(m,string(n,'#'));
+     
      for(int i=0; i<m;i++){
-        string temp="";
+        
         for(int j=0; j<n; j++){
-            if(i==0 || j==n-1)temp.push_back('.');
-            else temp.push_back('#');
+            if(i==0 || j==n-1)ans[i][j]='.';
+            else ans[i][j]='#';
         }
-        ans.push_back(temp);
+    
      }
 return ans;
     }
