@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1406-stone-game-iii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Brainteaser
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Rolling Hash
 |  |
 | ------- |
