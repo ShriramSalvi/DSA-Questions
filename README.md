@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0200-number-of-islands) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0035-search-insert-position) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 ## Tree
