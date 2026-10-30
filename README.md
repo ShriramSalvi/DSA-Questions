@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0567-permutation-in-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0239-sliding-window-maximum) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0414-third-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -525,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1584-min-cost-to-connect-all-points) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
