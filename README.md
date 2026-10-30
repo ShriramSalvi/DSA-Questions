@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0169-majority-element) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0064-minimum-path-sum) |
 | [0486-predict-the-winner](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0647-palindromic-substrings) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
