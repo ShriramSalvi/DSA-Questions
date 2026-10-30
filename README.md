@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0141-linked-list-cycle) |
+| [0290-word-pattern](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0290-word-pattern](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0567-permutation-in-string) |
