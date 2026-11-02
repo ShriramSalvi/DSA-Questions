@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0904-fruit-into-baskets) |
+| [0931-minimum-falling-path-sum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [0986-interval-list-intersections](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1406-stone-game-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0200-number-of-islands) |
+| [0931-minimum-falling-path-sum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1260-shift-2d-grid) |
