@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1980-find-unique-binary-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1980-find-unique-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2336-smallest-number-in-infinite-set](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2351-first-letter-to-appear-twice](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
+| [2336-smallest-number-in-infinite-set](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
 | ------- |
@@ -556,4 +558,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
