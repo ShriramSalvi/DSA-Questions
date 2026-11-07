@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0290-word-pattern) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0064-minimum-path-sum) |
