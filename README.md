@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1406-stone-game-iii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1406-stone-game-iii) |
 | [1408-string-matching-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1408-string-matching-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Rolling Hash
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -505,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
