@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2733-neither-minimum-nor-maximum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
