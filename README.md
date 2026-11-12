@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -587,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0881-boats-to-save-people) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
