@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1980-find-unique-binary-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2810-faulty-keyboard](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2810-faulty-keyboard) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2810-faulty-keyboard) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
