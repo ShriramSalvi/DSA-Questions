@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Rolling Hash
 |  |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ShriramSalvi/DSA-Questions/tree/master/2336-smallest-number-in-infinite-set) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShriramSalvi/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -570,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShriramSalvi/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShriramSalvi/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
