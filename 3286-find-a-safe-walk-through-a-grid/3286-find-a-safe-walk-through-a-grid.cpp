@@ -1,43 +1,55 @@
 class Solution {
 public:
-    int m;
-    int n;
-    bool helper(int row, int col,vector<vector<int>>&grid,int power , vector<vector<int>>&dp){
-
-        if(row<0 || col<0 || row>=m || col>= n)return false;
-        if(grid[row][col]==-1)return false;
-
-        power -= grid[row][col];
-        if(power<=0)return false;
-        if(dp[row][col]>=power)return false;
-
-        if(row==m-1 && col==n-1)return true ;
-      
-
-         dp[row][col]=power;
-        // will need backtracking
-         int temp = grid[row][col];
-         grid[row][col]=-1;
-        
-         bool up = helper(row-1,col,grid,power,dp);
-         bool down = helper(row+1,col,grid,power,dp);
-         bool right = helper(row,col+1,grid,power,dp);
-         bool left=helper(row,col-1,grid,power,dp);
-
-         grid[row][col]=temp;
-
-        return (up || down || right || left);
-
-
-    }
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
-        m = grid.size();
-        n= grid[0].size();
-        
-        cout<<m<<" "<<n;
-        vector<vector<int>>dp(m,vector<int>(n,-1));
-        return helper(0,0,grid,health,dp);
+        /// submission 1 is done with dp + backtracking
 
-        // return true;
+        /// solution 2 can be done with dijekstra
+
+        /// solution 3 is of 0/1 bfs
+        
+        int m = grid.size();
+        int n= grid[0].size();
+
+        vector<vector<int>>result(m,vector<int>(n,INT_MAX));
+
+        result[0][0]=grid[0][0];// source ---> source
+
+        deque<pair<int,int>>dq; // row , col
+        
+        dq.push_back({0,0});
+        
+        vector<vector<int>>directions = {
+            {-1,0},
+            {1,0},
+            {0,1},
+            {0,-1}
+        };
+
+        while(!dq.empty()){
+
+            auto[r,c] = dq.front();
+            dq.pop_front();
+
+            for(auto it:directions){
+
+                int nR = it[0]+r;
+                int nC = it[1]+c;
+
+                if(nR<0 || nR >= m || nC<0 || nC >= n)continue;
+
+                if(result[nR][nC] > result[r][c]+grid[nR][nC]){
+                  result[nR][nC] =  result[r][c]+grid[nR][nC];
+
+                  // wt = 0 insert front 
+                  // wt = 1 insert back
+
+                  if(grid[nR][nC]==0)dq.push_front({nR,nC});
+                  else dq.push_back({nR,nC});
+                }
+            }
+        }
+
+            return (health - result[m-1][n-1]) >= 1;
+        
     }
 };
